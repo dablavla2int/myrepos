@@ -1,0 +1,16 @@
+
+<options>
+	<title>Lineage II Interlude</title>
+	<uid>{0C59E072-2C5AF9F6-F9F4A8A3-6E09F8D0-5A41CBF3}</uid>
+	<options>http://proxyserverupd.fastmsg.ru/updt/int/options.xml</options>
+	<news>http://proxyserverupd.fastmsg.ru/updt/intweb/index.html</news>
+	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml</patchlist>
+	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
+	<full_check>
+		<reload_patchlist/>
+	</full_check>
+	<run>
+		<program>La2.exe</program>
+		<close_updater/>
+	</run>
+</options>
