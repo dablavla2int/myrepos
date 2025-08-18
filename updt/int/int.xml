@@ -1,0 +1,12 @@
+
+<options>
+	<title>Lineage II Interlue</title>
+	<uid>{721966B2-521A7F36-87B42E63-10497E10-24014D33}</uid>
+	<options>http://proxyserverupd.fastmsg.ru/updt/int/int.xml</options>
+	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml</patchlist>
+	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
+	<run>
+		<program>La2.exe</program>
+		<close_updater/>
+	</run>
+</options>
