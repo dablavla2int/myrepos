@@ -840,17 +840,17 @@
 	<archive filename="staticmeshes\world_frontierguard_s.usx" checksum="CB92D1EE" original="492258B1" size="487687"/>
 	<archive filename="staticmeshes\world_sign_s.usx" checksum="3DFCA420" original="FC8E9FBA" size="169098"/>
 	<archive filename="staticmeshes\world_statue_s.usx" checksum="1FCBC0CF" original="2CE5C965" size="1411276"/>
-	<archive filename="system\actionname-e.dat" checksum="BEA0D739" original="009B772C" size="6832"/>
+	<archive filename="system\actionname-e.dat" checksum="8393C42F" original="22AB827D" size="7216"/>
 	<archive filename="system\ALAudio.dll" checksum="F62AD140" original="5A5AF292" size="352276"/>
 	<archive filename="system\ALAudio.int" checksum="C69EF112" original="14AC3D8E" size="2658"/>
-	<archive filename="system\armorgrp.dat" checksum="50931809" original="F78F6A7A" size="101552"/>
+	<archive filename="system\armorgrp.dat" checksum="3B7FAF07" original="40FA6FBE" size="101552"/>
 	<archive filename="system\asiahm-medium.ttf" checksum="ECDFFF3A" original="BC4FF79B" size="601048"/>
 	<archive filename="system\bighead.int" checksum="53834160" original="4A658EBB" size="350"/>
 	<archive filename="system\castlename-e.dat" checksum="7781E9D8" original="E8BF8E2C" size="1072"/>
 	<archive filename="system\chargrp.dat" checksum="8145EE1C" original="C7EEECF7" size="2480"/>
-	<archive filename="system\chatfilter.ini" checksum="9B3F7665" original="25C19C7D" size="757"/>
-	<archive filename="system\classinfo-e.dat" checksum="3FCBD1F3" original="4FE1077F" size="2224"/>
-	<archive filename="system\clientdata.dat" checksum="2DAC2921" original="A3D75F17" size="432"/>
+	<archive filename="system\chatfilter.ini" checksum="4B5C9606" original="F357FF69" size="867"/>
+	<archive filename="system\classinfo-e.dat" checksum="6673F28A" original="20ACBDD3" size="2096"/>
+	<archive filename="system\clientdata.dat" checksum="5FC5E5AA" original="D3C154F4" size="432"/>
 	<archive filename="system\cloak.int" checksum="9734213F" original="B91CAB2F" size="454"/>
 	<archive filename="system\commandname-e.dat" checksum="79F9169B" original="9B20EA1F" size="1328"/>
 	<archive filename="system\Core.dll" checksum="EBDD19CD" original="E725DFD4" size="1372180"/>
@@ -858,7 +858,7 @@
 	<archive filename="system\Core.u" checksum="FA667305" original="26CACEFE" size="65662"/>
 	<archive filename="system\creditfont.gly" checksum="FDD4E5A8" original="C9F98646" size="181800"/>
 	<archive filename="system\creditgrp-e.dat" checksum="E02F959B" original="C42EF9C7" size="816"/>
-	<archive filename="system\D3DDrv.dll" checksum="74B2B348" original="D8238F46" size="1277972"/>
+	<archive filename="system\D3DDrv.dll" checksum="6A789D40" original="D308E0F8" size="1277972"/>
 	<archive filename="system\defopenal32.dll" checksum="66119E7C" original="31FC0528" size="102420"/>
 	<archive filename="system\dsetup.dll" checksum="A79EE548" original="C07937F2" size="62996"/>
 	<archive filename="system\Editor.u" checksum="FF8E3020" original="FD205935" size="593932"/>
@@ -868,89 +868,89 @@
 	<archive filename="system\Engine.u" checksum="A586C3F5" original="E576C228" size="2805259"/>
 	<archive filename="system\entereventgrp.dat" checksum="C7DD9983" original="F7830C11" size="4016"/>
 	<archive filename="system\Env.int" checksum="04DED384" original="1F4F00AF" size="5943"/>
-	<archive filename="system\etcitemgrp.dat" checksum="A809FFE0" original="89174784" size="80560"/>
-	<archive filename="system\eula-e.dat" checksum="2922FCBD" original="ABB878F8" size="12464"/>
-	<archive filename="system\Fire.dll" checksum="37D74593" original="DF15C389" size="319488"/>
+	<archive filename="system\etcitemgrp.dat" checksum="68D030D4" original="BA75F51B" size="80432"/>
+	<archive filename="system\eula-e.dat" checksum="F1AAD60C" original="5DA716B5" size="3120"/>
+	<archive filename="system\Fire.dll" checksum="87E93EE2" original="B706246F" size="315412"/>
 	<archive filename="system\Fire.u" checksum="72264292" original="E05CC6FC" size="15491"/>
 	<archive filename="system\GameGuard.des" checksum="8AA3F98A" original="A6D97E7C" size="153375"/>
 	<archive filename="system\GamePlay.u" checksum="82F9947A" original="EF316D32" size="212008"/>
-	<archive filename="system\gametip-e.dat" checksum="031347A1" original="01373168" size="12976"/>
-	<archive filename="system\hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
-	<archive filename="system\hairaccessarygrp.dat" checksum="F120E059" original="DD7452BE" size="432"/>
+	<archive filename="system\gametip-e.dat" checksum="879CEBDB" original="A54211EA" size="11952"/>
+	<archive filename="system\Hair.int" checksum="67DAA863" original="326576F5" size="110933"/>
+	<archive filename="system\hairaccessarygrp.dat" checksum="8C2689FE" original="B300B67F" size="432"/>
 	<archive filename="system\hairaccessorylocgrp.dat" checksum="2407F10E" original="E26DA9BE" size="4144"/>
 	<archive filename="system\hairgrp.dat" checksum="6A8FE6EA" original="9802F7E8" size="304"/>
-	<archive filename="system\helmetgrp.dat" checksum="BDE82DB8" original="B127E060" size="432"/>
+	<archive filename="system\helmetgrp.dat" checksum="45E42DEA" original="40197C58" size="432"/>
 	<archive filename="system\hennagrp-e.dat" checksum="E1CD312C" original="45059347" size="1968"/>
 	<archive filename="system\huntingzone-e.dat" checksum="0986340E" original="7BE8D214" size="5680"/>
 	<archive filename="system\ifc23.dll" checksum="27E6888F" original="EE331A5A" size="233492"/>
-	<archive filename="system\interface.u" checksum="1A007034" original="178CE402" size="1964561"/>
-	<archive filename="system\interface.xdat" checksum="E52D8C45" original="10CF68FA" size="534267"/>
+	<archive filename="system\Interface.u" checksum="1A007034" original="178CE402" size="1964561"/>
+	<archive filename="system\Interface.xdat" checksum="E52D8C45" original="10CF68FA" size="534267"/>
 	<archive filename="system\IpDrv.dll" checksum="CE2E34CB" original="4EF75ABF" size="491540"/>
 	<archive filename="system\ipdrv.int" checksum="6894930B" original="2C8050ED" size="1840"/>
 	<archive filename="system\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
-	<archive filename="system\itemname-e.dat" checksum="EA708602" original="90C0F0A2" size="238640"/>
-	<archive filename="system\L2.exe" checksum="2B8498B9" original="277C52E3" size="491540"/>
-	<archive filename="system\l2.ini" checksum="A227327C" original="27507C3A" size="3376"/>
+	<archive filename="system\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
+	<archive filename="system\l2.exe" checksum="2B8498B9" original="277C52E3" size="491540"/>
+	<archive filename="system\l2.ini" checksum="9E46C821" original="3E9C4DD0" size="3376"/>
 	<archive filename="system\l2.int" checksum="AA223F4A" original="CADE6C41" size="163"/>
 	<archive filename="system\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
 	<archive filename="system\l2forecf.ffe" checksum="4E556823" original="35DB9024" size="3516"/>
 	<archive filename="system\largefont.gly" checksum="C881604D" original="F61510FE" size="185632"/>
 	<archive filename="system\largefont-e.gly" checksum="256B737F" original="AE273BFB" size="1560"/>
+	<archive filename="system\LargeFont-r.gly" checksum="44F3C08C" original="A090A74F" size="5656"/>
+	<archive filename="system\largefont-ru.gly" checksum="256B737F" original="AE273BFB" size="1560"/>
 	<archive filename="system\Lineage2us.ini" checksum="075F7603" original="23EE4FA8" size="371"/>
-	<archive filename="system\LineageCreature.dll" checksum="8C9E7AB6" original="6EF83868" size="131092"/>
-	<archive filename="system\LineageCreature.u" checksum="5EA988EF" original="DA5FDD18" size="12054"/>
+	<archive filename="system\lineagecreature.dll" checksum="8C9E7AB6" original="6EF83868" size="131092"/>
+	<archive filename="system\lineagecreature.u" checksum="5EA988EF" original="DA5FDD18" size="12054"/>
 	<archive filename="system\LineageDeco.u" checksum="C74D14D8" original="A7A9BB82" size="6752"/>
-	<archive filename="system\lineageeffect.u" checksum="2EC551D2" original="17ED4FF4" size="2006536"/>
-	<archive filename="system\lineageenv.dll" checksum="6ACD922C" original="5DC334A5" size="131092"/>
-	<archive filename="system\lineageenv.u" checksum="13BDDCDA" original="CBE65474" size="12049"/>
+	<archive filename="system\LineageEffect.u" checksum="2EC551D2" original="17ED4FF4" size="2006536"/>
 	<archive filename="system\LineageMonster.int" checksum="12DD71E1" original="B9793E12" size="527907"/>
 	<archive filename="system\LineageMonster.u" checksum="5A10C83F" original="08C1E766" size="176945"/>
-	<archive filename="system\lineagemonster2.int" checksum="6B5B1DCE" original="64E42FC3" size="151403"/>
+	<archive filename="system\LineageMonster2.int" checksum="6B5B1DCE" original="64E42FC3" size="151403"/>
 	<archive filename="system\LineageMonster2.u" checksum="7C31041E" original="E13374D9" size="68190"/>
 	<archive filename="system\LineageMonster3.int" checksum="5ACEBC95" original="34DDCDF7" size="55710"/>
 	<archive filename="system\LineageMonster3.u" checksum="3E979886" original="08659166" size="79016"/>
 	<archive filename="system\LineageNpc.int" checksum="A785114B" original="28C62E3B" size="103714"/>
-	<archive filename="system\lineagenpc.u" checksum="06D71706" original="8443B565" size="91687"/>
+	<archive filename="system\LineageNpc.u" checksum="06D71706" original="8443B565" size="91687"/>
 	<archive filename="system\lineagenpc2.int" checksum="4C26CF51" original="B1152240" size="4344"/>
-	<archive filename="system\lineagenpc2.u" checksum="CC6FCB17" original="CCF75E31" size="14464"/>
-	<archive filename="system\lineagenpcev.u" checksum="0075DFBB" original="493DD229" size="12192"/>
+	<archive filename="system\LineageNpc2.u" checksum="CC6FCB17" original="CCF75E31" size="14464"/>
+	<archive filename="system\LineageNpcEv.u" checksum="0075DFBB" original="493DD229" size="12192"/>
 	<archive filename="system\LineageVehicle.u" checksum="18F8FA5E" original="1AF77DC8" size="9084"/>
-	<archive filename="system\lineagewarrior.int" checksum="7712DD76" original="9137A5C7" size="193542"/>
+	<archive filename="system\LineageWarrior.int" checksum="7712DD76" original="9137A5C7" size="193542"/>
 	<archive filename="system\LineageWarrior.u" checksum="9E96978A" original="6F69D8C2" size="31540"/>
-	<archive filename="system\Localization.ini" checksum="EAFC5BFD" original="F8C813DF" size="3647"/>
+	<archive filename="system\Localization.ini" checksum="BCBFBE4E" original="6DE001FA" size="1423"/>
 	<archive filename="system\logongrp.dat" checksum="76561BC1" original="DC4D6BBD" size="432"/>
-	<archive filename="system\logongrp.rar" checksum="7133A56F" original="BD2EB880" size="509"/>
-	<archive filename="system\mobskillanimgrp.dat" checksum="E478AD67" original="9AF64086" size="67632"/>
+	<archive filename="system\MobSkillAnimgrp.dat" checksum="E478AD67" original="9AF64086" size="67632"/>
 	<archive filename="system\msxml4.dll" checksum="ED94AB40" original="7A44AAE0" size="1233940"/>
 	<archive filename="system\msxml4a.dll" checksum="2F7AC686" original="1C42035F" size="44564"/>
 	<archive filename="system\msxml4r.dll" checksum="68021E96" original="05703EE7" size="82452"/>
 	<archive filename="system\musicinfo.dat" checksum="B30A9D10" original="803E72BE" size="3376"/>
-	<archive filename="system\nosleep.dll" checksum="8DD5C631" original="48EC41DC" size="3072"/>
-	<archive filename="system\npcgrp.dat" checksum="92B51D68" original="88194205" size="233392"/>
-	<archive filename="system\npcname-e.dat" checksum="22BCD17C" original="04E8F49A" size="51248"/>
+	<archive filename="system\npcgrp.dat" checksum="D7C3993C" original="0CE281EE" size="233392"/>
+	<archive filename="system\NpcName-e.dat" checksum="272B308C" original="251494C5" size="57648"/>
 	<archive filename="system\npkcrypt.dll" checksum="C91E8CBD" original="DBA37475" size="409700"/>
 	<archive filename="system\npkcrypt.sys" checksum="7EB73235" original="D90F94E6" size="23217"/>
 	<archive filename="system\npkcrypt.vxd" checksum="733243CC" original="30999A8A" size="26344"/>
 	<archive filename="system\npkcusb.sys" checksum="60DA3ED1" original="D171F4A6" size="15472"/>
 	<archive filename="system\npkpdb.dll" checksum="789927E0" original="BB63DA94" size="53268"/>
-	<archive filename="system\nwindow.dll" checksum="75C88FB5" original="77C0BC1A" size="3850260"/>
-	<archive filename="system\nwindow.u" checksum="4A8ACF2F" original="902474F5" size="251512"/>
-	<archive filename="system\obscene-e.dat" checksum="6D1B3311" original="6F1079FC" size="304"/>
+	<archive filename="system\nProtect.des" checksum="98A49E94" original="8ECBDD24" size="451584"/>
+	<archive filename="system\NWindow.dll" checksum="E5D48EDB" original="224581C3" size="3850260"/>
+	<archive filename="system\NWindow.u" checksum="4A8ACF2F" original="902474F5" size="251512"/>
+	<archive filename="system\obscene-e.dat" checksum="FB61D086" original="D2FCAAA3" size="304"/>
 	<archive filename="system\ogg.dll" checksum="9D79C659" original="DA44A84A" size="61460"/>
 	<archive filename="system\openal32.dll" checksum="D3926C25" original="5D689F69" size="114708"/>
-	<archive filename="system\Option.ini" checksum="D12D618B" original="41FB1101" size="1260"/>
-	<archive filename="system\optiondata_client-e.dat" checksum="C7E6E06C" original="FC6BFCE6" size="96176"/>
-	<archive filename="system\orc.dll" checksum="4C589BAF" original="8403378D" size="1396756"/>
+	<archive filename="system\Option.ini" checksum="59A32975" original="E5A03F5D" size="1182"/>
+	<archive filename="system\optiondata_client-e.dat" checksum="6E08CF52" original="83EB56DD" size="96304"/>
 	<archive filename="system\questname-e.dat" checksum="F6E22E04" original="5DDC60DB" size="188464"/>
-	<archive filename="system\raiddata-e.dat" checksum="C659A9F7" original="97D311CC" size="29744"/>
-	<archive filename="system\recipe-c.dat" checksum="D7348FE4" original="13ADD786" size="23856"/>
-	<archive filename="system\s_info.ini" checksum="C6FCA183" original="989FF060" size="54"/>
+	<archive filename="system\RaidData-e.dat" checksum="C0D42600" original="8FA71FC5" size="32176"/>
+	<archive filename="system\recipe-c.dat" checksum="6F8D1364" original="FBB40AE1" size="23728"/>
+	<archive filename="system\s_info.ini" checksum="5870288B" original="94E90112" size="55"/>
 	<archive filename="system\servername-e.dat" checksum="002457BB" original="868A98E9" size="1072"/>
-	<archive filename="system\skillgrp.dat" checksum="BA5A55EB" original="2B0DD3FA" size="158896"/>
-	<archive filename="system\skillname-e.dat" checksum="8371AB9B" original="CB8648D2" size="297008"/>
+	<archive filename="system\skillgrp.dat" checksum="9BB8F555" original="90B102DC" size="159024"/>
+	<archive filename="system\skillname-e.dat" checksum="9E6FB6D5" original="206384B4" size="295216"/>
 	<archive filename="system\skillsoundgrp.dat" checksum="2FA8E4DA" original="C9E51563" size="28080"/>
 	<archive filename="system\smallfont.gly" checksum="C4B21AFA" original="B5F75A60" size="181800"/>
-	<archive filename="system\smallfont-e.gly" checksum="B129AA00" original="10628059" size="1560"/>
+	<archive filename="system\smallfont-e.gly" checksum="0CB1F872" original="779A1D4E" size="5536"/>
+	<archive filename="system\SmallFont-r.gly" checksum="0CB1F872" original="779A1D4E" size="5536"/>
+	<archive filename="system\smallfont-ru.gly" checksum="0CB1F872" original="779A1D4E" size="5536"/>
 	<archive filename="system\soulshot.int" checksum="5B1F6B23" original="28B3E76B" size="1702"/>
 	<archive filename="system\staticobject-e.dat" checksum="FED22FB8" original="3CC08E1F" size="2480"/>
 	<archive filename="system\symbolname-e.dat" checksum="B0134FC9" original="7F779B89" size="304"/>
@@ -960,22 +960,22 @@
 	<archive filename="system\timeenv1.int" checksum="9134E13A" original="2E364813" size="14452"/>
 	<archive filename="system\timeenv2.int" checksum="37C1A03E" original="FD10188B" size="13322"/>
 	<archive filename="system\timeenv3.int" checksum="FAD69DF0" original="6B16F13C" size="14099"/>
-	<archive filename="system\ttfontinfo.ini" checksum="0770441E" original="FE139655" size="795"/>
-	<archive filename="system\udebugmenu.u" checksum="612E44AF" original="10E58601" size="263641"/>
-	<archive filename="system\user.ini" checksum="031658F3" original="B2929350" size="4400"/>
+	<archive filename="system\TTFontInfo.ini" checksum="0770441E" original="FE139655" size="795"/>
+	<archive filename="system\UDebugMenu.u" checksum="612E44AF" original="10E58601" size="263641"/>
+	<archive filename="system\user.ini" checksum="9F45D556" original="48BC1CC9" size="4400"/>
 	<archive filename="system\UWindow.u" checksum="BF901292" original="7F4417B0" size="693798"/>
 	<archive filename="system\variationeffectgrp-e.dat" checksum="99802544" original="E7282AA7" size="1456"/>
 	<archive filename="system\vorbis.dll" checksum="BF3C8577" original="91DBE7C8" size="249876"/>
 	<archive filename="system\vorbisfile.dll" checksum="1173A489" original="4F037814" size="106516"/>
-	<archive filename="system\weapongrp.dat" checksum="55ECC0AB" original="774DB3A4" size="78128"/>
+	<archive filename="system\weapongrp.dat" checksum="E69ADCC1" original="F47DE9C9" size="78128"/>
 	<archive filename="system\wform.bm" checksum="2BAF65BB" original="FEB585DE" size="527005"/>
 	<archive filename="system\Window.dll" checksum="8CBE8085" original="8BD304B2" size="749588"/>
-	<archive filename="system\window.int" checksum="32D26E99" original="95C64A02" size="2337"/>
-	<archive filename="system\WindowsInfo.ini" checksum="D3FDC610" original="AF80058A" size="2172"/>
+	<archive filename="system\Window.int" checksum="32D26E99" original="95C64A02" size="2337"/>
+	<archive filename="system\WindowsInfo.ini" checksum="98DA486B" original="07B7D35A" size="2116"/>
 	<archive filename="system\WinDrv.dll" checksum="D6D2F6AA" original="33FA4634" size="630804"/>
 	<archive filename="system\windrv.int" checksum="CDA2CB33" original="087A3AC7" size="729"/>
 	<archive filename="system\wrap_oal.dll" checksum="0C68EE79" original="0F491330" size="409620"/>
-	<archive filename="system\zonename-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
+	<archive filename="system\ZoneName-e.dat" checksum="90F40998" original="7F177A01" size="6064"/>
 	<archive filename="systextures\cubemaps.utx" checksum="8EE9763A" original="8E0B5318" size="50404"/>
 	<archive filename="systextures\default.utx" checksum="93903D77" original="223EC2D5" size="1166480"/>
 	<archive filename="systextures\DropItemsTex.utx" checksum="8CC14C22" original="84BF2455" size="7893369"/>
