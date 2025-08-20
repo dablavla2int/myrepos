@@ -1,7 +1,7 @@
 
 <options>
 	<title>Lineage II Interlude</title>
-	<uid>{0C59E072-2C5AF9F6-F9F4A8A3-6E09F8D0-5A41CBF3}</uid>
+	<uid>{61447EFB-4147677F-94E9362A-03146659-375C557A}</uid>
 	<options>http://proxyserverupd.fastmsg.ru/updt/int/options.xml</options>
 	<news>http://proxyserverupd.fastmsg.ru/updt/intweb/index.html</news>
 	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml</patchlist>
@@ -13,4 +13,9 @@
 		<program>La2.exe</program>
 		<close_updater/>
 	</run>
+	<soft_check>
+		<mask>system\user.ini</mask>
+		<mask>system\WindowsInfo.ini</mask>
+		<mask>system\s_info.ini</mask>
+	</soft_check>
 </options>
