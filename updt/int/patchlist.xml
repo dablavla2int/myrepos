@@ -991,6 +991,7 @@
 	<archive filename="systextures\l2_skilltime.utx" checksum="6BEF9F00" original="500F5344" size="433393"/>
 	<archive filename="systextures\L2Font.utx" checksum="1D8E60C9" original="ABCC88E5" size="23106660"/>
 	<archive filename="systextures\L2Font-e.utx" checksum="DF1B2DC8" original="76E9AE04" size="21010151"/>
+	<archive filename="systextures\L2Font-r.utx" checksum="7ADA447F" original="025424EF" size="131540"/>
 	<archive filename="systextures\l2ui.utx" checksum="7206B562" original="77CBC54F" size="15500853"/>
 	<archive filename="systextures\L2UI_CH3.utx" checksum="197BED4D" original="55A971F7" size="41019753"/>
 	<archive filename="systextures\l2zonename.utx" checksum="7434B3D5" original="A33E565D" size="3366136"/>
