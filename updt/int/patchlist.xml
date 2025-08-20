@@ -962,7 +962,7 @@
 	<archive filename="system\timeenv3.int" checksum="FAD69DF0" original="6B16F13C" size="14099"/>
 	<archive filename="system\TTFontInfo.ini" checksum="0770441E" original="FE139655" size="795"/>
 	<archive filename="system\UDebugMenu.u" checksum="612E44AF" original="10E58601" size="263641"/>
-	<archive filename="system\user.ini" checksum="9F45D556" original="48BC1CC9" size="4400"/>
+	<archive filename="system\user.ini" checksum="4450D30F" original="0C35F203" size="4400"/>
 	<archive filename="system\UWindow.u" checksum="BF901292" original="7F4417B0" size="693798"/>
 	<archive filename="system\variationeffectgrp-e.dat" checksum="99802544" original="E7282AA7" size="1456"/>
 	<archive filename="system\vorbis.dll" checksum="BF3C8577" original="91DBE7C8" size="249876"/>
