@@ -198,7 +198,7 @@
 	<archive filename="l2text\server_help_4.htm" checksum="128692DB" original="3611F10E" size="1446"/>
 	<archive filename="l2text\server_help_5.htm" checksum="598F7556" original="FEBB156A" size="1830"/>
 	<archive filename="l2text\server_help_6.htm" checksum="362A0F47" original="92FBD2F6" size="2278"/>
-	<archive filename="La2.exe" checksum="7EE872BC" original="C4871F93" size="362496"/>
+	<archive filename="La2.exe" checksum="EA372DF6" original="7E871891" size="524800"/>
 	<archive filename="Lineage 2 Interlude.url" checksum="A7DAD4AD" original="140839E5" size="116"/>
 	<archive filename="maps\15_20.unr" checksum="3410741E" original="2B6AEF1D" size="2965685"/>
 	<archive filename="maps\15_21.unr" checksum="6D525169" original="92E9AE2E" size="2965657"/>
@@ -1452,3 +1452,4 @@
 	<archive filename="voice\tutorial_voice_026-e.ogg" checksum="965CB607" original="46F6D094" size="60864"/>
 	<archive filename="voice\tutorial_voice_027-e.ogg" checksum="90A23943" original="7F9D649A" size="59585"/>
 </list>
+
