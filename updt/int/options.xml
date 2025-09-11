@@ -3,7 +3,7 @@
 	<title>Lineage II Interlude</title>
 	<uid>{61447EFB-4147677F-94E9362A-03146659-375C557A}</uid>
 	<options>http://proxyserverupd.fastmsg.ru/updt/int/options.xml</options>
-	<news>http://proxyserverupd.fastmsg.ru/updt/intweb/index.html</news>
+	<news>http://news-updater-gamecenter.dkon.app/int/index.php</news>
 	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml</patchlist>
 	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
 	<full_check>
@@ -18,4 +18,5 @@
 		<mask>system\WindowsInfo.ini</mask>
 		<mask>system\s_info.ini</mask>
 	</soft_check>
+
 </options>
