@@ -1,5 +1,6 @@
 
 <list>
+	<archive filename="DK.exe" checksum="06D96DFA" original="ABE2BF8F" size="255488"/>
 	<archive filename="system\servername-e.dat" checksum="A1960800" original="D6C48CE3" size="1072"/>
 	<archive filename="animations\DarkElf.ukx" checksum="1B73C15A" original="F6D9D813" size="15300290"/>
 	<archive filename="animations\DropItems.ukx" checksum="18435013" original="7202AC22" size="14014089"/>
@@ -1452,5 +1453,6 @@
 	<archive filename="voice\tutorial_voice_026-e.ogg" checksum="965CB607" original="46F6D094" size="60864"/>
 	<archive filename="voice\tutorial_voice_027-e.ogg" checksum="90A23943" original="7F9D649A" size="59585"/>
 </list>
+
 
 
