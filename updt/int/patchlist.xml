@@ -1,5 +1,14 @@
 
 <list>
+	<archive filename="Lineage 2 Forum.url" checksum="A6C2A21A" original="3B3188B4" size="126"/>
+	<archive filename="Lineage 2 Gracia Final.url" checksum="082B2049" original="31DBEA51" size="123"/>
+	<archive filename="Lineage 2 Interlude PvP-Server.url" checksum="50B42AC7" original="28954450" size="250"/>
+	<archive filename="Lineage 2 Interlude x20.url" checksum="8C938878" original="8744B82B" size="243"/>
+	<archive filename="Lineage 2 Interlude x3.url" checksum="502B58A9" original="40C58438" size="122"/>
+	<archive filename="Lineage 2 Interlude.url" checksum="58B56AFF" original="4A4E0744" size="126"/>
+	<archive filename="Lineage 2 Screen's.url" checksum="96F3210A" original="CD9D5C3D" size="157"/>
+	<archive filename="Project Info.url" checksum="05114C68" original="54CA8C0A" size="138"/>
+	<archive filename="Support ((PM ADMIN)).url" checksum="56D5C5A2" original="AFD95064" size="123"/>
 	<archive filename="DK.exe" checksum="06D96DFA" original="ABE2BF8F" size="255488"/>
 	<archive filename="system\servername-e.dat" checksum="A1960800" original="D6C48CE3" size="1072"/>
 	<archive filename="animations\DarkElf.ukx" checksum="1B73C15A" original="F6D9D813" size="15300290"/>
@@ -201,7 +210,6 @@
 	<archive filename="l2text\server_help_5.htm" checksum="598F7556" original="FEBB156A" size="1830"/>
 	<archive filename="l2text\server_help_6.htm" checksum="362A0F47" original="92FBD2F6" size="2278"/>
 	<archive filename="La2.exe" checksum="EA372DF6" original="7E871891" size="524800"/>
-	<archive filename="Lineage 2 Interlude.url" checksum="A7DAD4AD" original="140839E5" size="116"/>
 	<archive filename="maps\15_20.unr" checksum="3410741E" original="2B6AEF1D" size="2965685"/>
 	<archive filename="maps\15_21.unr" checksum="6D525169" original="92E9AE2E" size="2965657"/>
 	<archive filename="maps\15_22.unr" checksum="639D4B8B" original="34CF74E2" size="2999807"/>
@@ -1453,6 +1461,7 @@
 	<archive filename="voice\tutorial_voice_026-e.ogg" checksum="965CB607" original="46F6D094" size="60864"/>
 	<archive filename="voice\tutorial_voice_027-e.ogg" checksum="90A23943" original="7F9D649A" size="59585"/>
 </list>
+
 
 
 
