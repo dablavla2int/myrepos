@@ -1,5 +1,6 @@
 
 <list>
+	<archive filename="system\servername-e.dat" checksum="A1960800" original="D6C48CE3" size="1072"/>
 	<archive filename="animations\DarkElf.ukx" checksum="1B73C15A" original="F6D9D813" size="15300290"/>
 	<archive filename="animations\DropItems.ukx" checksum="18435013" original="7202AC22" size="14014089"/>
 	<archive filename="animations\Dwarf.ukx" checksum="00175089" original="B619A509" size="14327652"/>
@@ -943,7 +944,6 @@
 	<archive filename="system\RaidData-e.dat" checksum="C0D42600" original="8FA71FC5" size="32176"/>
 	<archive filename="system\recipe-c.dat" checksum="6F8D1364" original="FBB40AE1" size="23728"/>
 	<archive filename="system\s_info.ini" checksum="5870288B" original="94E90112" size="55"/>
-	<archive filename="system\servername-e.dat" checksum="A85BA8AF" original="52837D24" size="1072"/>
 	<archive filename="system\skillgrp.dat" checksum="9BB8F555" original="90B102DC" size="159024"/>
 	<archive filename="system\skillname-e.dat" checksum="9E6FB6D5" original="206384B4" size="295216"/>
 	<archive filename="system\skillsoundgrp.dat" checksum="2FA8E4DA" original="C9E51563" size="28080"/>
@@ -1452,4 +1452,5 @@
 	<archive filename="voice\tutorial_voice_026-e.ogg" checksum="965CB607" original="46F6D094" size="60864"/>
 	<archive filename="voice\tutorial_voice_027-e.ogg" checksum="90A23943" original="7F9D649A" size="59585"/>
 </list>
+
 
