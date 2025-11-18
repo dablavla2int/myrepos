@@ -32,7 +32,7 @@
 	<archive filename="animations\Skill.usk" checksum="CFE4F8CB" original="AFD946DD" size="50885"/>
 	<archive filename="forcefeedback\ifeel.ifr" checksum="03891BCF" original="785FA068" size="172412"/>
 	<archive filename="forcefeedback\other.ifr" checksum="0BBD25B4" original="AD054C42" size="149445"/>
-	<archive filename="L2InterludeClient.cmd" checksum="0D735B02" original="4DDE58C6" size="1702"/>
+	<archive filename="L2InterludeClient.cmd" checksum="2E9A6AD0" original="8192FE2E" size="1697"/>
 	<archive filename="l2text\credit_ceo.htm" checksum="B3F7C06C" original="2E74BC35" size="1092"/>
 	<archive filename="l2text\credit_design.htm" checksum="90DDB0C9" original="E4DCB721" size="1156"/>
 	<archive filename="l2text\credit_design_level_01.htm" checksum="B9A529E8" original="C6A0B29D" size="1348"/>
@@ -1461,6 +1461,7 @@
 	<archive filename="voice\tutorial_voice_026-e.ogg" checksum="965CB607" original="46F6D094" size="60864"/>
 	<archive filename="voice\tutorial_voice_027-e.ogg" checksum="90A23943" original="7F9D649A" size="59585"/>
 </list>
+
 
 
 
