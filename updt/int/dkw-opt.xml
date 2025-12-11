@@ -1,0 +1,20 @@
+<options>
+	<title>DKon World</title>
+	<uid>{6DAB3039-4DA829BD-980678E8-0FFB289B-3BB31BB8}</uid>
+	<options>http://proxyserverupd.fastmsg.ru/updt/int/dkw-opt.xml</options>
+	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/dkw-patch.xml</patchlist>
+	<updater>http://proxyserverupd.fastmsg.ru/updt/int/DKonWorld.exe</updater>
+	<news>http://news-updater-gamecenter.dkon.app/dkw/index.php</news>
+	<full_check>
+		<reload_patchlist/>
+	</full_check>
+	<run>
+		<program>DKon Start.exe</program>
+		<close_updater/>
+	</run>
+	<soft_check>
+		<mask>system\user.ini</mask>
+		<mask>system\WindowsInfo.ini</mask>
+		<mask>system\s_info.ini</mask>
+	</soft_check>
+</options>
