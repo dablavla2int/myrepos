@@ -890,7 +890,7 @@
 	<archive filename="system\IpDrv.u" checksum="4A7C63EB" original="40CD4BC8" size="73703"/>
 	<archive filename="system\itemname-e.dat" checksum="8334C8C3" original="858B50DE" size="237488"/>
 	<archive filename="system\l2.exe" checksum="ECA8169C" original="707C03EE" size="491540"/>
-	<archive filename="system\l2.ini" checksum="A1BE247F" original="004C6685" size="3632"/>
+	<archive filename="system\l2.ini" checksum="E2F36A9B" original="53E66F0A" size="3504"/>
 	<archive filename="system\l2.int" checksum="A2528D8E" original="59066E45" size="171"/>
 	<archive filename="system\L2CompiledShader.bin" checksum="8CE52913" original="2144DF1C" size="4"/>
 	<archive filename="system\l2forecf.ffe" checksum="4E556823" original="35DB9024" size="3516"/>
