@@ -3,14 +3,14 @@
 	<title>Lineage II Interlude</title>
 	<uid>{61447EFB-4147677F-94E9362A-03146659-375C557A}</uid>
 	<options>http://proxyserverupd.fastmsg.ru/updt/int/options.xml</options>
-	<news>http://news-updater-gamecenter.dkon.app/int/index.php</news>
+	<news>http://api.dalam.world/launcher/int/index.php</news>
 	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/patchlist.xml</patchlist>
 	<updater>http://proxyserverupd.fastmsg.ru/updt/int/Lineage2.exe</updater>
 	<full_check>
 		<reload_patchlist/>
 	</full_check>
 	<run>
-		<program>La2.exe</program>
+		<program>system\L2.exe</program>
 		<close_updater/>
 	</run>
 	<soft_check>
