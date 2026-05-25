@@ -4,12 +4,12 @@
 	<options>http://proxyserverupd.fastmsg.ru/updt/int/dkw-opt.xml</options>
 	<patchlist>http://proxyserverupd.fastmsg.ru/updt/int/dkw-patch.xml</patchlist>
 	<updater>http://proxyserverupd.fastmsg.ru/updt/int/DKonWorld.exe</updater>
-	<news>http://news-updater-gamecenter.dkon.app/dkw/index.php</news>
+	<news>http://api.dalam.world/launcher/dkw/index.php</news>
 	<full_check>
 		<reload_patchlist/>
 	</full_check>
 	<run>
-		<program>DKon Start.exe</program>
+		<program>system\L2.exe</program>
 		<close_updater/>
 	</run>
 	<soft_check>
